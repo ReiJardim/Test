@@ -1,4 +1,8 @@
 print("Meu nome é rei")
-print("Teste 01 ou 03")
-print(" massa ") 
-x = 12 + 3
+
+
+x = 1
+y = 2
+
+g = x + y
+print (g)
